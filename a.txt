@@ -1,6 +1,0 @@
-HEAD
-a
-b
-
-asssss
-dev
